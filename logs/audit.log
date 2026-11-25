@@ -1,0 +1,17 @@
+2026-11-24 13:36:32,225 INFO admin_id=1 action=ADMIN_LOGIN target_id=None ip=127.0.0.1
+2026-11-24 13:36:32,275 INFO admin_id=1 action=VIEW_ALL_FEEDBACK target_id=None ip=127.0.0.1
+2026-11-24 13:36:37,174 INFO admin_id=1 action=ADMIN_LOGOUT target_id=None ip=127.0.0.1
+2026-11-25 09:30:51,610 INFO admin_id=2 action=ADMIN_LOGIN target_id=None ip=127.0.0.1
+2026-11-25 09:30:51,658 INFO admin_id=2 action=VIEW_ALL_FEEDBACK target_id=None ip=127.0.0.1
+2026-11-25 09:33:21,932 INFO admin_id=2 action=ADMIN_LOGOUT target_id=None ip=127.0.0.1
+2026-11-25 09:46:02,547 INFO admin_id=2 action=ADMIN_LOGIN target_id=None ip=127.0.0.1
+2026-11-25 09:46:02,601 INFO admin_id=2 action=VIEW_ALL_FEEDBACK target_id=None ip=127.0.0.1
+2026-11-25 09:56:14,604 INFO admin_id=2 action=ADMIN_LOGIN target_id=None ip=127.0.0.1
+2026-11-25 09:56:14,640 INFO admin_id=2 action=VIEW_ALL_FEEDBACK target_id=None ip=127.0.0.1
+2026-11-25 09:56:24,685 INFO admin_id=2 action=VIEW_ALL_FEEDBACK target_id=None ip=127.0.0.1
+2026-11-25 09:58:36,828 INFO admin_id=2 action=VIEW_ALL_FEEDBACK target_id=None ip=127.0.0.1
+2026-11-25 09:58:46,252 INFO admin_id=2 action=DELETE_FEEDBACK target_id=1 ip=127.0.0.1
+2026-11-25 09:58:46,273 INFO admin_id=2 action=VIEW_ALL_FEEDBACK target_id=None ip=127.0.0.1
+2026-11-25 10:26:36,380 INFO admin_id=2 action=ADMIN_LOGIN target_id=None ip=127.0.0.1
+2026-11-25 10:26:36,427 INFO admin_id=2 action=VIEW_ALL_FEEDBACK target_id=None ip=127.0.0.1
+2026-11-25 10:28:52,601 INFO admin_id=2 action=VIEW_ALL_FEEDBACK target_id=None ip=127.0.0.1

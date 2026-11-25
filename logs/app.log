@@ -1,0 +1,7 @@
+2026-11-24 13:32:35,487 WARNING SECRET_KEY not set - using a random key (sessions reset on restart).
+2026-11-24 13:32:47,158 WARNING SECRET_KEY not set - using a random key (sessions reset on restart).
+2026-11-25 09:29:04,375 WARNING SECRET_KEY not set - using a random key (sessions reset on restart).
+2026-11-25 09:29:18,805 WARNING SECRET_KEY not set - using a random key (sessions reset on restart).
+2026-11-25 09:44:19,400 WARNING CSRF_FAILURE path=/login ip=127.0.0.1
+2026-11-25 09:55:23,615 WARNING SECRET_KEY not set - using a random key (sessions reset on restart).
+2026-11-25 10:25:56,243 WARNING CSRF_FAILURE path=/logout ip=127.0.0.1
